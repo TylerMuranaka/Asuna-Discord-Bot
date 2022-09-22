@@ -1,0 +1,1 @@
+worker: python AsunaMAIN.py
